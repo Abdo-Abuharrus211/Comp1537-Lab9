@@ -1,0 +1,15 @@
+#movies-collection{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+movies-collection{
+    width: 25%;
+}
+
+#movie{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
